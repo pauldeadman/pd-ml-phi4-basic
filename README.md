@@ -1,8 +1,10 @@
-# pd-ml-phi4-basic
+# Microsoft Phi4 Examples
+
+Phi is a series of open source AI models developed by Microsoft.
 
 # How to setup Python to run Phi4
 
-https://github.com/pauldeadman/pd-ml-phi4-basic/blob/main/Phi4-basic.md
+[Python Basic Setup](https://github.com/pauldeadman/pd-ml-phi4-basic/blob/main/Phi4-basic.md)
 
 # Run Phi4 with Agents
 
