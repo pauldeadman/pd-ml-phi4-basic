@@ -9,3 +9,7 @@ Phi is a series of open source AI models developed by Microsoft.
 # Run Phi4 with Agents
 
 [Python Calling Functions](https://github.com/pauldeadman/pd-ml-phi4-basic/blob/main/Phi4-function.md)
+
+# Reality Test English
+
+[AI SAFETY INSTITUE](/realityTest.md)
