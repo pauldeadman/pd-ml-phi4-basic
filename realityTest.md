@@ -4,6 +4,11 @@
 
 ![HLD](/Images/realitytest-highleveldesign.png)
 
+## Results from English Language Analysis
+
+[Simplified Output](https://github.com/pauldeadman/pd-ml-phi4-basic/blob/main/realityTest_results_en-pub.csv)
+
+
 ## High Level Steps
 
 ### Load Datasets
