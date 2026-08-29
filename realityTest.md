@@ -6,6 +6,12 @@
 
 ## Results from English Language Analysis
 
+| Claim | Count |
+|-------|-------|
+| Ambiguous | 282 |
+| Explicit_Disclosure | 76 |
+| Explicit_Human_Claim | 40 |
+
 [Simplified Output](https://github.com/pauldeadman/pd-ml-phi4-basic/blob/main/realityTest_results_en-pub.csv)
 
 
